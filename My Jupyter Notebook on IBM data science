@@ -1,0 +1,153 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Copy of Untitled3.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOFcsJZRGJVYB8EgSPx8v8b",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/19PA1A0537/pythonbasics/blob/master/My%20Jupyter%20Notebook%20on%20IBM%20data%20science\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "SMF6f8kzYsWq",
+        "colab_type": "text"
+      },
+      "source": [
+        "# Eswar Sai Teja Danduprolu"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "hEp3M6eKVwwf",
+        "colab_type": "text"
+      },
+      "source": [
+        "MULTIPLICATION"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "BEd_ahMBVnjb",
+        "colab_type": "code",
+        "outputId": "94b2d8b3-dd02-4694-b353-2233399617bc",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        }
+      },
+      "source": [
+        "2*5"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "10"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "G3VIvzQjXSXM",
+        "colab_type": "text"
+      },
+      "source": [
+        "# **DIFFERENT MARKDOWN AND HTML used are**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "rOgErtyqYLVt",
+        "colab_type": "text"
+      },
+      "source": [
+        "1.Numbered list\n",
+        "2.Bulleted list\n",
+        "3.strikethroufh\n",
+        "4.Table\n",
+        "5.Highlighted text"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "OBelOs6WY0EC",
+        "colab_type": "text"
+      },
+      "source": [
+        "# BULLETS"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ZkxzyT1bY8IZ",
+        "colab_type": "text"
+      },
+      "source": [
+        "1.circle bullets\n",
+        "2.sub bullets\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "DH5T9r_lZiaa",
+        "colab_type": "text"
+      },
+      "source": [
+        "# Strikethrough"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "SUTaeQ_KanWg",
+        "colab_type": "text"
+      },
+      "source": [
+        "**Data** **Science** **Grade**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "aJyk7eYCdHPP",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    }
+  ]
+}
